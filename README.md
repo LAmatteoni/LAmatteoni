@@ -1,6 +1,6 @@
 ### Hello world! We all make mistakes and learn about them 🤓
 
-- 🔭 Looking for internship
+- 🔭 Salesforce Developer Intern at TAAK
 - 🌱 Currently studying 3rd period at FIAP
 - 😄 Pronouns: he/him
 - 🌈 LGBTQIA+ Supporter
