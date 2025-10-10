@@ -1,7 +1,7 @@
 ### Hello world! We all make mistakes and learn about them 🤓
 
-- 🔭 Salesforce Developer Intern at TAAK
-- 🌱 Currently studying last period at FIAP
+- 🔭 Salesforce Developer at TAAK
+- 🌱 Graduated in Systems Analysis and Development from FIAP
 - 😄 Pronouns: he/him
 - 🌈 LGBTQIA+
 - 💻 : <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;">
